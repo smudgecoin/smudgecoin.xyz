@@ -1,0 +1,13 @@
+<svg width="61" height="60" viewBox="0 0 61 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29.9396 0C13.4044 0 0 13.4044 0 29.9396C0 46.4748 13.4044 59.8793 29.9396 59.8793H31.0604C47.5956 59.8793 61 46.4748 61 29.9396C61 13.4044 47.5956 0 31.0604 0H29.9396Z" fill="#4AA7CD"/>
+<path d="M24.375 17.8438C24.6339 17.8438 24.8438 18.0536 24.8438 18.3125" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M23.9062 18.3125C23.9062 18.0536 24.1161 17.8438 24.375 17.8438" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.375 18.7813C24.1161 18.7813 23.9062 18.5714 23.9062 18.3125" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.8438 18.3125C24.8438 18.5714 24.6339 18.7813 24.375 18.7813" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.9225 20.5C34.5586 20.8138 39.1265 21.7856 43.4888 23.3863C43.8996 23.5596 44.1315 23.9984 44.0432 24.4356C43.9549 24.8727 43.571 25.1872 43.125 25.1875H24.375" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39.7212 25.1875C41.625 28.5525 44.0625 33.2913 44.0625 35.5C44.0625 39.1244 41.1244 42.0625 37.5 42.0625C33.8756 42.0625 30.9375 39.1244 30.9375 35.5C30.9375 33.2913 33.375 28.5525 35.2788 25.1875" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.5 19.5625L41.25 15.8125" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M37.5 19.5625L33.75 15.8125" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.375 25.1875C27.4816 25.1875 30 22.6691 30 19.5625C30 16.4559 27.4816 13.9375 24.375 13.9375C21.2684 13.9375 18.75 16.4559 18.75 19.5625V30.8125C18.75 32.3658 17.4908 33.625 15.9375 33.625" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M24.375 25.1875C24.375 25.1875 26.25 33.3313 26.25 36.4375C26.25 39.5441 23.7316 42.0625 20.625 42.0625" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
