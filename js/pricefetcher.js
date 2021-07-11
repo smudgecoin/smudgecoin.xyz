@@ -41,7 +41,6 @@
 
     fetchPrice()
     .then(({ price }) => {
-      // do some stuff
       document.getElementById("numberprice").textContent = `${price} $`;
     })
     .catch(error => {
